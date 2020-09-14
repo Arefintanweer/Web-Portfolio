@@ -1,6 +1,5 @@
 {
   "editor.fontFamily": "Hack",
   "editor.fontWeight": "500",
-  "editor.fontSize": 18,
-  "editor.tabSize": 2
+  "editor.fontSize": 18
 }
